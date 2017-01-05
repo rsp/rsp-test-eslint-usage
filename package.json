@@ -1,0 +1,23 @@
+{
+  "name": "rsp-test-eslint-usage",
+  "version": "0.0.0",
+  "description": "Internal project - see: https://github.com/rsp/rsp-internal#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/rsp-test-eslint-usage.git"
+  },
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/rsp-test-eslint-usage/issues"
+  },
+  "homepage": "https://github.com/rsp/rsp-test-eslint-usage#readme",
+  "dependencies": {
+    "eslint": "^3.12.2",
+    "rsp-test-eslint-config": "github:rsp/rsp-test-eslint-config"
+  }
+}

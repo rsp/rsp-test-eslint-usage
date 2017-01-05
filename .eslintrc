@@ -1,0 +1,3 @@
+{
+    "extends": "rsp-test-eslint-config/dir/config.js"
+}
